@@ -5,7 +5,7 @@ children traditionally receive a gift of money from their parents and
 grandparents, called 'otoshidama'.
 
 Usually otoshidama is presented in a special decorated envelope, but this year
-we didn't get any, so I decided to make them myself.
+we didn't get any of those, so I decided to make them myself.
 
 The file `envelope.pdf` is two pages, formatted for US letter paper. The colored
 flower goes on the outside; the marks on the other side show where to cut and
