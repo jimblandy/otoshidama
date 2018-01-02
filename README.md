@@ -9,7 +9,7 @@ we didn't get any, so I decided to make them myself.
 
 The file `envelope.pdf` is two pages, formatted for US letter paper. The colored
 flower goes on the outside; the marks on the other side show where to cut and
-fold the evelope. I followed the directions for “How to make an envelope 3:
+fold the envelope. I followed the directions for “How to make an envelope 3:
 Petit Envelope” at [origami land].
 
 The images and code in this directory are licensed under the terms of the MIT
